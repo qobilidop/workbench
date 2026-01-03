@@ -1,8 +1,13 @@
-# qobilidop's personal monorepo
+# Monorepo
+
+A personal monorepo for my public-facing digital work.
+
+These projects are primarily intended for personal utility, learning, and research. Any project that evolves beyond this scope, or gains community traction, will be moved to its own repository for easier collaboration.
 
 ## Directory structure
 
-- `hammer/`: my personal tooling
-- `notebook/`: my personal knowledge management
-- `website/`: my personal website
-- `workspace/`: anything else organized as projects
+- `archive/`: completed projects
+- `desktop/`: workspaces for ongoing projects
+- `notebook/`: personal knowledge management
+- `toolbox/`: personal tooling
+- `website/`: personal website
